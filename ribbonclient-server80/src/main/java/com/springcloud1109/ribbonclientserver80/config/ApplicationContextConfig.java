@@ -1,4 +1,4 @@
-package com.springcloud1109.config;
+package com.springcloud1109.ribbonclientserver80.config;
 
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;
